@@ -1,4 +1,4 @@
-# COFFEEO Cafe Website
+# Caffiene'sMagic Cafe Website
 
 
 ### Screenshot
