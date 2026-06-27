@@ -13,7 +13,7 @@ body  {
 }
 a {
      text-decoration : none;
-  color : #fff;
+  color : #ffff;
 }
 ul {
   list-style: none;
@@ -34,7 +34,7 @@ ul {
 }
 .btn-secondary,
 .btn-third:hover {
-    background : #4a2c11; 
+    background : #4a2c12; 
 }
 .btn-primary:hover,
 .btn-secondary:hover,
